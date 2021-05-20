@@ -1,0 +1,34 @@
+.user-home-content{
+	padding-top: 3%;
+}
+.to-do-options{
+	width:44%;
+	margin-left:25%;
+	padding:10px;
+	background-color: aliceblue;
+ 	box-shadow: 2px 5px 5px gray;
+ 	border:5px black;
+  border-radius: 5px;
+  overflow: hidden;
+  
+}
+
+.to-do-options>a {
+    color: inherit;
+    width: 50%;
+    margin-left: 25%;
+    float: left;
+    border-radius: 8px;
+    border: 2px solid gray;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0px;
+    text-decoration: none;
+    transition-duration: 0.3s;
+}
+.to-do-options>a:hover{
+	background-color: #333;
+  	color:white;
+}
+

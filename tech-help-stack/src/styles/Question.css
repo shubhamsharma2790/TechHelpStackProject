@@ -1,0 +1,10 @@
+.question-answer-content{
+	width:100%;
+	margin:0%;
+}
+.question-answer-content>p{
+	margin:0;
+	padding-top: 2%;
+	font-size: 125%;
+	font-weight: bold;
+}

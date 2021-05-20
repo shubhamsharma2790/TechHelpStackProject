@@ -1,0 +1,17 @@
+.edit-question-wrapper{
+	width:42%;
+	margin-left:25%;
+	padding-top:2%;
+	padding-left:2%;
+
+}
+.edit-question-wrapper>p{
+	font-size: 150%;
+	font-weight: bold;
+}
+.edit-question-wrapper>textarea{
+	overflow: auto;
+	width:100%;
+	height: 150px;
+	resize: none;
+}

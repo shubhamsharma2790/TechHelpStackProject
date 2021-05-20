@@ -1,0 +1,19 @@
+.signin-content{
+	width:30%;
+	margin-left:33%;
+}
+.signin-content>h4{
+	margin-top:0;
+	padding-top: 10%;
+}
+.signin-field-wrapper{
+	margin:5% 0%;
+}
+.signin-field-wrapper>label,.signin-field-wrapper>input,.signin-field-wrapper>textarea{
+	width:100%;
+}
+.signin-field-wrapper>input[type="submit"]{
+	width:60%;
+	margin:2% 20%;
+	padding:3%;
+}

@@ -1,0 +1,108 @@
+.body{
+	background-color: yellow;
+	
+}
+.green-text{
+	color:green;
+}
+.red-text{
+	color:red;
+}
+.float-left{
+	float: left;
+}
+.overflow-hidden{
+	overflow: hidden;
+}
+.text-size-150{
+	font-size: 150%;
+}
+.text-size-150{
+	font-size: 80%;
+}
+.bold{
+	font-weight: bold;
+}
+.text-right{
+	text-align: right;
+}
+.text-center{
+	text-align: center;
+}
+.width-50-percent{
+	width:50%;
+}
+.width-100-percent{
+	width:100%;
+}
+.response-message{
+	text-align: center;
+	padding:10px;
+	font-weight: bold;
+	border-radius: 10px;
+	position:fixed;
+	width:30%;
+	left:0;
+	top:0;
+	margin:1% 1%;
+	transition-duration: 0.1s
+
+}
+.response-message-bottom{
+	text-align: center;
+	padding:10px;
+	font-weight: bold;
+	border-radius: 10px;
+	position:fixed;
+	width:30%;
+	left:0;
+	bottom:0;
+	margin:1% 1%;
+	transition-duration: 0.1s
+
+}
+.success{
+	background-color: #8bef8b;
+	color:black;
+
+}
+.failure{
+	background-color: red;
+	color:white;
+
+}
+.wait{
+	background-color: yellow;
+	color:black;
+}
+.hidden{
+	display: none;
+}
+.overflow-wrap-break-word{
+	overflow-wrap:break-word;
+}
+/*Following styles apply to QuestionList and AnswerList both */
+.question-answer-list-wrapper{
+	width:44%;
+	margin-left:25%;
+	padding:10px;
+ 	border:10px black;
+	border-radius: 5px;
+  	margin-top:1%;
+  	overflow: hidden;
+
+}
+.question-answer-list-refresh{
+	float:right;
+	margin-bottom:1%;
+}
+
+.question-answer-on-list{
+	border: 2px solid gray;
+	margin-top:5%;
+	padding:3%;
+}
+.question-answer-content{
+	overflow:hidden;
+}
+

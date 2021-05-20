@@ -1,0 +1,20 @@
+
+.signup-content{
+	width:30%;
+	margin-left:33%;
+	padding:2%;
+}
+.signup-content>h4{
+	margin-top:0;
+}
+.signup-field-wrapper{
+	margin:5% 0%;
+}
+.signup-field-wrapper>label,.signup-field-wrapper>input,.signup-field-wrapper>textarea{
+	width:100%;
+}
+.signup-field-wrapper>input[type="submit"]{
+	width:60%;
+	margin:2% 20%;
+	padding:3%;
+}

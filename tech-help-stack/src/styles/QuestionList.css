@@ -1,0 +1,25 @@
+
+
+.question-options{
+	overflow:hidden;
+}
+
+.question-option{
+	float:right;
+	color:black;
+	font-weight: bold;
+	padding:8px;
+	margin-left:2%;
+	border-radius:5px;
+	text-decoration: none;
+	border:1px solid red;
+	transition-duration: 0.3s;
+}
+.question-option:hover{
+	box-shadow: 3px 2px 4px gray;
+}
+.question-option a{
+	text-decoration: none;
+	border:none;
+
+}

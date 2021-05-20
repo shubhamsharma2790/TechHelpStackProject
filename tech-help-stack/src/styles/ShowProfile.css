@@ -1,0 +1,16 @@
+.show-profile-wrapper{
+	width:50%;
+	margin-left:23%;
+	padding-top:4%;
+}
+
+.search-user-input{
+	width:60%;
+	margin-left:20%; 
+}
+.search-delete-user-button{
+	width:30%;
+	padding:3px;
+	margin-left:35%; 
+	margin-top:2%;
+}

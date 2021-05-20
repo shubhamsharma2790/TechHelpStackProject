@@ -1,0 +1,35 @@
+.home-content{
+	width:100%;
+	margin-top:5%;
+}
+.home-banner{
+  width:100%;
+}
+.home-banner>h1{
+  font-size:7vw;
+}
+.home-navlink{
+	width:100%;
+	
+}
+
+.home-navlink>a:link, .home-navlink>a:visited {
+  background-color: white;
+  color: black;
+  width:20%;
+  margin-left:38vw;
+  margin-bottom: 5%;
+  border: 2px solid red;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-align: center;
+  font-weight:bold;
+  text-decoration: none;
+  display: inline-block;
+  transition-duration: 0.4s;
+}
+
+.home-navlink>a:hover, .home-navlink>a:active {
+  background-color: red;
+  color: white;
+}
